@@ -1,0 +1,26 @@
+{
+  "name": "care-cli",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "careteenL <15074806497@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/care-cli.js",
+  "bin": {
+    "care-cli": "bin/vue.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "ejs": "^3.1.6",
+    "execa": "^5.1.1",
+    "fs-extra": "^10.0.0",
+    "globby": "^11.0.3",
+    "inquirer": "^8.1.0",
+    "isbinaryfile": "^4.0.8",
+    "lodash.clonedeep": "^4.5.0",
+    "ora": "^5.4.0",
+    "care-cli-shared-utils": "^1.0.0"
+  },
+  "gitHead": "359d338997d8ebcb0e3fd1df903a06f90211537d"
+}
