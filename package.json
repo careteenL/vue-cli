@@ -2,12 +2,13 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "create":"node packages/care-cli/bin/vue.js create hello1"
+    "create": "node packages/care-cli/bin/vue.js create hello1"
   },
-  "workspaces":[
+  "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "version": "1.0.0"
 }
