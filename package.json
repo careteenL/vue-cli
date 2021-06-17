@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "create": "node packages/care-cli/bin/vue.js create hello1"
+    "create": "node packages/care-cli/bin/vue.js create hello2"
   },
   "workspaces": [
     "packages/*"

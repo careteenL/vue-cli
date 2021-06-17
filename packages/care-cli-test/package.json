@@ -2,9 +2,9 @@
   "name": "care-cli-test",
   "version": "1.0.0",
   "description": "> TODO: description",
-  "author": "zhangrenyang <zhang_renyang@126.com>",
+  "author": "careteenL <15074806497@163.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/care-cli-test.js",
   "directories": {
     "lib": "lib",
@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "gitHead": "359d338997d8ebcb0e3fd1df903a06f90211537d"
+  }
 }

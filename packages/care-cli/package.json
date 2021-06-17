@@ -21,6 +21,5 @@
     "lodash.clonedeep": "^4.5.0",
     "ora": "^5.4.0",
     "care-cli-shared-utils": "^1.0.0"
-  },
-  "gitHead": "359d338997d8ebcb0e3fd1df903a06f90211537d"
+  }
 }
